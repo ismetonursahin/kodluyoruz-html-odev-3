@@ -1,0 +1,45 @@
+body {
+    background-color: hsl(296, 21%, 71%);
+}
+
+h1 {
+    color: rgb(162, 90, 90);
+    font-style: italic;
+}
+#introduction {
+    font-style: italic;
+    font-weight: bold;
+}
+#content {
+    margin: 3rem auto;
+    margin-right: 9rem;
+    width: 60%;
+}
+#content section {
+    padding: 5px;
+}
+#title {
+    margin-left: 3rem;
+}
+.heading {
+    color: white;
+    background-color: rgb(174, 46, 131);
+    font-weight: bold;
+    border-radius: 1rem;
+}
+.info {
+    display: inline-block;
+    padding: 5px;
+    text-decoration: underline;
+}
+.info {
+    color: rgb(33, 34, 22);
+    font-weight: bold;
+}
+.Afiyet {
+    font-size: 1.5rem;
+    float: right;
+    margin-right: 15rem;
+    font-weight: bold;
+    font-family: "Roboto Mono", monospace;
+}
